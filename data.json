@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kerwin Frost", 
+        "age": 25, 
+        "role": "McNugget Buddy Hype Man"
+    },
+    {
+        "name": "Waffutu", 
+        "age": 30, 
+        "role": "The Princess of Positivity"
+    },
+    {
+        "name": "Uptown Moe", 
+        "age": 20, 
+        "role": "The Local’s Local of Frost Way"
+    },
+    {
+        "name": "Don Bernice", 
+        "age": 35, 
+        "role": "Wise & Witty Stylist"
+    },
+    {
+        "name": "Brrrick", 
+        "age": 40, 
+        "role": "Self-Proclaimed Cool Guy"
+    },
+    {
+        "name": "Darla", 
+        "age": 45, 
+        "role": "Lead Singer of The Frostettos"
+    }
+]
